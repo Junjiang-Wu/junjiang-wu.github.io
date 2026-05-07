@@ -154,7 +154,7 @@ With the rapid advancement of deepfake technology, malicious face manipulations 
 Conventional approaches shown at the top are limited to single tasks or require complex dual-decoder architectures for bifunctional forensics. The proposed "all-in-one" framework illustrated at the bottom employs the trifunctional LIDMark and a novel FHD for deepfake detection, source tracing, and tampering localization.
 </p>
 
-<h2 align="center">Overall of the LIDMark Construction</h2>
+<h2 align="center">Overview of the LIDMark Construction</h2>
 <div align="center">
   <img src="/images/structure.png" alt="LIDMark Framework" style="width: 100%; max-width: 800px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
