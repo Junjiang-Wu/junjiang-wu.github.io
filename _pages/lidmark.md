@@ -129,7 +129,7 @@ layout: single
 </div>
 
 <div class="btn-container">
-  <a href="https://arxiv.org/abs/2602.23523" target="_blank" class="action-btn">
+  <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_All_in_One_Unifying_Deepfake_Detection_Tampering_Localization_and_Source_CVPR_2026_paper.pdf" target="_blank" class="action-btn">
     <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
       <path d="M14 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6zM13 3.5L18.5 9H13V3.5zM10.8 15.6c-.6 1.4-1.6 2.4-2.8 2.4-.7 0-1.3-.4-1.3-1 0-.9 1.1-1.6 2.8-2.1.4-1.1.8-2.4 1-3.6-1.1-1.9-1.5-3.4-1.1-4.1.3-.5 1.1-.5 1.6.1.4.5.3 1.7-.1 3 1.1 1.1 2.5 1.9 4 2.3 1.3-.1 2.4.1 2.8.6.3.3.3.8-.2 1.2-.6.5-1.7.4-3.1-.4-1.3.5-2.5 1.1-3.6 1.6zm-1.8.8c.6 0 1.3-.6 1.8-1.5-1.1.3-1.8.8-1.8 1.5zm3.1-6.9c-.1-.7-.2-1.4-.4-1.9.3-1.1.5-1.7.3-1.9 0 0-.1-.1-.2-.1-.2.1-.2.6.3 3.9zm-1.1 2.9c.8 1.2 1.8 2 2.7 2.5.9.4 1.7.5 2.1.1.1-.1.1-.3-.1-.5-.5-.4-1.4-.5-2.5-.4-1.1-.6-2.2-1.2-3.2-1.9.4.1.7.2 1 .2z"></path>
     </svg>
