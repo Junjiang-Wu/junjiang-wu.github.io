@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Junjiang Wu (巫俊江)**, a graduate student at the School of Computer Science and Technology, Xinjiang University, advised by Prof. [Liejun Wang](https://it.xju.edu.cn/info/1155/3270.htm) and Assoc. Prof. [Zhiqing Guo](https://www.guozhiqing.cn/). My research interests include deepfake detection, multimedia forensics, and deep watermarking.
+I am **Junjiang Wu (巫俊江)**, a graduate student at the School of Computer Science and Technology, Xinjiang University, advised by Prof. [Liejun Wang](https://it.xju.edu.cn/info/1155/3270.htm) and Associate Prof. [Zhiqing Guo](https://www.guozhiqing.cn/). My research interests include deepfake detection, multimedia forensics, and deep watermarking.
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 Our paper was accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026!
